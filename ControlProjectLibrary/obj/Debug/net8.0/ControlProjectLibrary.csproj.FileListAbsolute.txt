@@ -1,0 +1,14 @@
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\bin\Debug\net8.0\ControlProjectLibrary.exe
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\bin\Debug\net8.0\ControlProjectLibrary.deps.json
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\bin\Debug\net8.0\ControlProjectLibrary.runtimeconfig.json
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\bin\Debug\net8.0\ControlProjectLibrary.dll
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\bin\Debug\net8.0\ControlProjectLibrary.pdb
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\obj\Debug\net8.0\ControlProjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\obj\Debug\net8.0\ControlProjectLibrary.AssemblyInfoInputs.cache
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\obj\Debug\net8.0\ControlProjectLibrary.AssemblyInfo.cs
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\obj\Debug\net8.0\ControlProjectLibrary.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\obj\Debug\net8.0\ControlProjectLibrary.dll
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\obj\Debug\net8.0\refint\ControlProjectLibrary.dll
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\obj\Debug\net8.0\ControlProjectLibrary.pdb
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\obj\Debug\net8.0\ControlProjectLibrary.genruntimeconfig.cache
+D:\Visual Studio 2010\TestControlProject\ControlProjectLibrary\obj\Debug\net8.0\ref\ControlProjectLibrary.dll

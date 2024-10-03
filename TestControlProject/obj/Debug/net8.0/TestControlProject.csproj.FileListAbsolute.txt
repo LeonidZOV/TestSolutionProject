@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\TestControlProject\TestControlProject\obj\Debug\net8.0\TestControlProject.csproj.AssemblyReference.cache
+D:\Visual Studio 2010\TestControlProject\TestControlProject\obj\Debug\net8.0\TestControlProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2010\TestControlProject\TestControlProject\obj\Debug\net8.0\TestControlProject.AssemblyInfoInputs.cache
+D:\Visual Studio 2010\TestControlProject\TestControlProject\obj\Debug\net8.0\TestControlProject.AssemblyInfo.cs
+D:\Visual Studio 2010\TestControlProject\TestControlProject\obj\Debug\net8.0\TestControlProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\TestControlProject\TestControlProject\bin\Debug\net8.0\CoverletSourceRootsMapping_TestControlProject

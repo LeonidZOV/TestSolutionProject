@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio 2010\\TestControlProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6D06C-91DA-4F32-BEA5-7BA7396A9447}|TestControlProject\\TestControlProject.csproj|d:\\visual studio 2010\\testcontrolproject\\testcontrolproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6D06C-91DA-4F32-BEA5-7BA7396A9447}|TestControlProject\\TestControlProject.csproj|solutionrelative:testcontrolproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C04297-5C86-4697-9FD7-36E4DD862C11}|ControlProjectLibrary\\ControlProjectLibrary.csproj|d:\\visual studio 2010\\testcontrolproject\\controlprojectlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C04297-5C86-4697-9FD7-36E4DD862C11}|ControlProjectLibrary\\ControlProjectLibrary.csproj|solutionrelative:controlprojectlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\\u041D\u0438\u043A\u0443\u043B\u0438\u043D \u041C. \u041A\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u041F-42, \u041F-43\u0441\\\u041F\u0440\u0438\u043C\u0435\u0440 \u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0435\u0439 \u0432 \u0442\u0435\u0441\u0442\u0430\u0445\\CustomerTestsClassic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerTestsClassic.cs",
+              "DocumentMoniker": "Z:\\\u041D\u0438\u043A\u0443\u043B\u0438\u043D \u041C. \u041A\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u041F-42, \u041F-43\u0441\\\u041F\u0440\u0438\u043C\u0435\u0440 \u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0435\u0439 \u0432 \u0442\u0435\u0441\u0442\u0430\u0445\\CustomerTestsClassic.cs",
+              "ToolTip": "Z:\\\u041D\u0438\u043A\u0443\u043B\u0438\u043D \u041C. \u041A\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u041F-42, \u041F-43\u0441\\\u041F\u0440\u0438\u043C\u0435\u0440 \u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0435\u0439 \u0432 \u0442\u0435\u0441\u0442\u0430\u0445\\CustomerTestsClassic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:34:24.629Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2010\\TestControlProject\\TestControlProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestControlProject\\UnitTest1.cs",
+              "ToolTip": "D:\\Visual Studio 2010\\TestControlProject\\TestControlProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestControlProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:32:22.096Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2010\\TestControlProject\\ControlProjectLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "ControlProjectLibrary\\Program.cs",
+              "ToolTip": "D:\\Visual Studio 2010\\TestControlProject\\ControlProjectLibrary\\Program.cs",
+              "RelativeToolTip": "ControlProjectLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:04:36.421Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

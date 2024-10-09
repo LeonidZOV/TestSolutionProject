@@ -1,30 +1,66 @@
-﻿public class Book
-{
+﻿
 
+public class Program
+{
+    public static void Main(string[] args) { }
+}
+
+public class Book
+{
+    public string Title { get; set; }
+
+    public Book(string title)
+    {
+        Title = title;
+    }
 }
 
 public class Library()
 {
-    public void AddBook()
+    private List<Book> books = new List<Book>();
+
+    public bool AddBook(Book book)
     {
-        throw new NotImplementedException();
+        books.Add(book);
+        return true;
     }
 
-    public void RemoveBook() 
+    public bool HasBook(Book book)
+    {
+        bool result = books.Contains(book);
+        return result;
+    }
+
+    public bool RemoveBook(Book book) 
+    {
+        books.Remove(book);
+        return true;
+    }
+
+    public bool HasNotBook(Book book) 
     { 
-        throw new NotImplementedException(); 
+        bool result = books.Contains(book);
+        return !result;
     }
 }
 
 public class Reader()
 {
-    public void AddBook()
+    private List<Book> books = new List<Book>();
+
+    public bool GetBookFromLibrary(Book book, Library library)
     {
-        throw new NotImplementedException();
+        //throw new NotImplementedException();//
+        books.Add(book);
+        library.RemoveBook(book);
+        return true;
     }
 
-    public void RemoveBook()
+    public bool ReturnBookToLiabrary(Book book, Library library)
     {
-        throw new NotImplementedException();
+        //throw new NotImplementedException();//
+        books.Remove(book);
+        library.AddBook(book);
+        return true;
     }
 }

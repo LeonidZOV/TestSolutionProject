@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio 2010\\TestControlProject\\TestControlProject\\TestControlProject.csproj": {}
+    "D:\\Visual Studio 2010\\TestSolutionProject\\TestControlProject\\TestControlProject.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio 2010\\TestControlProject\\ControlProjectLibrary\\ControlProjectLibrary.csproj": {
+    "D:\\Visual Studio 2010\\TestSolutionProject\\ControlProjectLibrary\\ControlProjectLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio 2010\\TestControlProject\\ControlProjectLibrary\\ControlProjectLibrary.csproj",
+        "projectUniqueName": "D:\\Visual Studio 2010\\TestSolutionProject\\ControlProjectLibrary\\ControlProjectLibrary.csproj",
         "projectName": "ControlProjectLibrary",
-        "projectPath": "D:\\Visual Studio 2010\\TestControlProject\\ControlProjectLibrary\\ControlProjectLibrary.csproj",
+        "projectPath": "D:\\Visual Studio 2010\\TestSolutionProject\\ControlProjectLibrary\\ControlProjectLibrary.csproj",
         "packagesPath": "C:\\Users\\unity\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio 2010\\TestControlProject\\ControlProjectLibrary\\obj\\",
+        "outputPath": "D:\\Visual Studio 2010\\TestSolutionProject\\ControlProjectLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\unity\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,17 +69,21 @@
         }
       }
     },
-    "D:\\Visual Studio 2010\\TestControlProject\\TestControlProject\\TestControlProject.csproj": {
+    "D:\\Visual Studio 2010\\TestSolutionProject\\TestControlProject\\TestControlProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio 2010\\TestControlProject\\TestControlProject\\TestControlProject.csproj",
+        "projectUniqueName": "D:\\Visual Studio 2010\\TestSolutionProject\\TestControlProject\\TestControlProject.csproj",
         "projectName": "TestControlProject",
-        "projectPath": "D:\\Visual Studio 2010\\TestControlProject\\TestControlProject\\TestControlProject.csproj",
+        "projectPath": "D:\\Visual Studio 2010\\TestSolutionProject\\TestControlProject\\TestControlProject.csproj",
         "packagesPath": "C:\\Users\\unity\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio 2010\\TestControlProject\\TestControlProject\\obj\\",
+        "outputPath": "D:\\Visual Studio 2010\\TestSolutionProject\\TestControlProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\unity\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Visual Studio 2010\\TestControlProject\\ControlProjectLibrary\\ControlProjectLibrary.csproj": {
-                "projectPath": "D:\\Visual Studio 2010\\TestControlProject\\ControlProjectLibrary\\ControlProjectLibrary.csproj"
+              "D:\\Visual Studio 2010\\TestSolutionProject\\ControlProjectLibrary\\ControlProjectLibrary.csproj": {
+                "projectPath": "D:\\Visual Studio 2010\\TestSolutionProject\\ControlProjectLibrary\\ControlProjectLibrary.csproj"
               }
             }
           }

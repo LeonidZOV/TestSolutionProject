@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DFvJNa//lD4=",
+  "dgSpecHash": "bnayb5Rt6+Q=",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio 2010\\TestControlProject\\TestControlProject\\TestControlProject.csproj",
+  "projectFilePath": "D:\\Visual Studio 2010\\TestSolutionProject\\TestControlProject\\TestControlProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unity\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\unity\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
